@@ -1,0 +1,20 @@
+安装源：	阿里云、中国科技大学、豆瓣、清华大学
+
+http://mirrors.aliyun.com/pypi/simple/
+https://pypi.mirors.ustc.edu.cn/simple/
+http://pypi.douban.com/simple/
+https://pypi.tuna.tsinghua.edu.cn/simple/
+
+
+
+
+在线安装
+	pip install 库名
+	pip install -i 源 库名
+
+
+离线安装
+	pip install 库.whl
+
+	cd 库源码
+	python setup.py install
